@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestActivityLifecycle</string>
+    <string name="next_activity_text_button">Next Activity</string>
+    <string name="alertdialog_text">AlertDialog</string>
+</resources>
